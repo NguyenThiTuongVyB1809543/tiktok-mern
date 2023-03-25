@@ -1,0 +1,7 @@
+run frontend: npm start
+run backend: nodemon server.js
+
+
+
+
+
